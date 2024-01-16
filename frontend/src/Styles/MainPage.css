@@ -1,0 +1,14 @@
+.containerMainPage{
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.Sidebar{
+    /* background-color: bisque; */
+    width: 30%;
+}
+.formMain{
+    /* background-color:blueviolet; */
+    width: 70%;
+}

@@ -1,0 +1,64 @@
+.login-func{
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-func-title{
+    /* background-color: blueviolet; */
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 30px;
+}
+
+.login-func-title-1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.login-func-content{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.login-func-content input{
+    width: 400px;
+    margin: 10px;
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 20px;
+}
+
+.login-func-loginButton{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-func-loginButton div{
+    padding: 10px;
+}
+
+.login-func-loginButton button{
+    background-color: rgb(12, 99, 99);
+    border: none;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    cursor: pointer;
+}
+
+.login-func-bottonPart{
+    padding: 10px;
+}

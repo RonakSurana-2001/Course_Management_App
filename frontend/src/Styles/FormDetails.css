@@ -1,0 +1,14 @@
+.FormDetails-main{
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.FormDetails-size{
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 10px;
+}
