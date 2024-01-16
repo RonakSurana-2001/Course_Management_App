@@ -1,6 +1,6 @@
 
 # Hero Vired Assignment
-The Assignment was about course management system.
+The Assignment was for Hero Vired Recruitment Process.
 ## Tools and Technology Used  
 React JS,Node JS,Express JS,Postgree SQL  
 ## Create Account Page
