@@ -20,3 +20,19 @@ Second is "Save Draft". In this the values of the fields will be saved in your s
 When you click any course (Remember that the add program is closed by clicking plus symbol again) the course details and 2 buttons- delete and Edit are present. Click on Delete to remove a program and when click on Edit the pop up will be shown and you can edit fields and click Update Program button there. 
 ## Logging Out
 Click on Email id button shown to top right Navabar to logout.
+## Deployment
+
+To start frontend type below commands. The frontend will run on localhost:3000
+
+```bash
+  cd frontend
+  npm start
+```
+
+To run backend type below commands. The Backend will run on localhost:3300
+
+```bash
+  cd Backend
+  nodemon api.js or node api.js
+```
+
