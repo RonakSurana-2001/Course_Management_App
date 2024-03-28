@@ -1,8 +1,3 @@
-
-# Hero Vired Assignment
-The Assignment was for Hero Vired Recruitment Process.  
-Ronak Surana  
-20uec105
 ## Tools and Technology Used  
 React JS,Node JS,Express JS,Postgree SQL  
 ## Create Account Page
